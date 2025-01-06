@@ -16,3 +16,9 @@ model.fit(X_train, y_train)
 predictions = model.predict(X_test)
 accuracy = accuracy_score(y_test, predictions)
 print(f"Model Accuracy: {accuracy}")
+
+from sklearn.metrics import precision_score, recall_score
+
+precision = precision_score(y_test, predictions, average='weighted')
+recall = recall_score(y_test, predictions, average='weighted')
+print(f"Precision: {precision}, Recall: {recall}")

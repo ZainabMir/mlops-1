@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/zamir/mlops-1/mlruns/265102222032629988/b41eae12305c402195b62b2f3b35c628/artifacts
+end_time: 1736234331389
+entry_point_name: ''
+experiment_id: '265102222032629988'
+lifecycle_stage: active
+run_id: b41eae12305c402195b62b2f3b35c628
+run_name: skittish-chimp-485
+run_uuid: b41eae12305c402195b62b2f3b35c628
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736234327566
+status: 3
+tags: []
+user_id: zamir

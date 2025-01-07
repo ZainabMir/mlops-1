@@ -1,0 +1,35 @@
+[33mcommit e2bde884cdb95183aa7bfda68f7d0ac4376917cb[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mtask3-experiment-tracking[m[33m)[m
+Author: zamir <zamir@ZAMIR-X30W-J.us.oracle.com>
+Date:   Tue Jan 7 12:27:49 2025 +0530
+
+    Add MLflow experiment tracking script
+
+[33mcommit 5a21c8a1592b043db9a5c53c518949d213f0815a[m[33m ([m[1;31morigin/task3-experiment-tracking[m[33m)[m
+Author: zamir <zamir@ZAMIR-X30W-J.us.oracle.com>
+Date:   Tue Jan 7 12:26:17 2025 +0530
+
+    Add MLflow and dependencies, added .gitignore
+
+[33mcommit 93f7baf76fb2cf0a74874dff9370116fe5c44133[m[33m ([m[1;32mfeature/model-update[m[33m)[m
+Author: zamir <zamir@ZAMIR-X30W-J.us.oracle.com>
+Date:   Tue Jan 7 12:17:46 2025 +0530
+
+    Added requirements.txt with dependencies
+
+[33mcommit fe094d017793726c71a01ea40320aaf23f8031eb[m[33m ([m[1;31morigin/feature/model-update[m[33m)[m
+Author: zamir <zamir@ZAMIR-X30W-J.us.oracle.com>
+Date:   Mon Jan 6 11:54:08 2025 +0530
+
+    Add precision and recall metrics
+
+[33mcommit bce391f248641d65c2a093ccaf3e01e6467f84ae[m[33m ([m[1;31morigin/main[m[33m, [m[1;32mmain[m[33m)[m
+Author: zamir <zamir@ZAMIR-X30W-J.us.oracle.com>
+Date:   Mon Jan 6 11:49:17 2025 +0530
+
+    Add CI/CD pipeline
+
+[33mcommit 23fb5e11eac385571532cfd46480d893439df071[m
+Author: zamir <zamir@ZAMIR-X30W-J.us.oracle.com>
+Date:   Mon Jan 6 11:43:29 2025 +0530
+
+    Add initial model script

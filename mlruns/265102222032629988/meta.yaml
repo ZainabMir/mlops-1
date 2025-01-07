@@ -1,0 +1,6 @@
+artifact_location: file:///C:/Users/zamir/mlops-1/mlruns/265102222032629988
+creation_time: 1736234321762
+experiment_id: '265102222032629988'
+last_update_time: 1736234321762
+lifecycle_stage: active
+name: Iris_Model_Experiment

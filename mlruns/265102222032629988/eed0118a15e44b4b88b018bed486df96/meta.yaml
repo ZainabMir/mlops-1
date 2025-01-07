@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/zamir/mlops-1/mlruns/265102222032629988/eed0118a15e44b4b88b018bed486df96/artifacts
+end_time: 1736234327550
+entry_point_name: ''
+experiment_id: '265102222032629988'
+lifecycle_stage: active
+run_id: eed0118a15e44b4b88b018bed486df96
+run_name: carefree-chimp-983
+run_uuid: eed0118a15e44b4b88b018bed486df96
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736234322300
+status: 3
+tags: []
+user_id: zamir

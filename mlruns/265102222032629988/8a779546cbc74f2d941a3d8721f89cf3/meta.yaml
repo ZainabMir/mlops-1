@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/zamir/mlops-1/mlruns/265102222032629988/8a779546cbc74f2d941a3d8721f89cf3/artifacts
+end_time: 1736254157945
+entry_point_name: ''
+experiment_id: '265102222032629988'
+lifecycle_stage: active
+run_id: 8a779546cbc74f2d941a3d8721f89cf3
+run_name: powerful-gull-575
+run_uuid: 8a779546cbc74f2d941a3d8721f89cf3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736254154825
+status: 3
+tags: []
+user_id: zamir

@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/zamir/mlops-1/mlruns/725114463781376722/ea59871fd8f14855903d050456604b19/artifacts
+deleted_time: 1736254956107
+end_time: 1736251377665
+entry_point_name: ''
+experiment_id: '725114463781376722'
+lifecycle_stage: deleted
+run_id: ea59871fd8f14855903d050456604b19
+run_name: carefree-frog-166
+run_uuid: ea59871fd8f14855903d050456604b19
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736251370484
+status: 3
+tags: []
+user_id: zamir

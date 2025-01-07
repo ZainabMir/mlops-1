@@ -1,0 +1,7 @@
+artifact_location: file:///C:/Users/zamir/mlops-1/mlruns/725114463781376722
+creation_time: 1736251363435
+experiment_id: '725114463781376722'
+last_update_time: 1736254956107
+lifecycle_stage: deleted
+name: Wine_Experiment_Tracking
+tags: {}

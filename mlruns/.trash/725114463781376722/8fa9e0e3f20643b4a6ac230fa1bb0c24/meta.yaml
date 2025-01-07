@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/zamir/mlops-1/mlruns/725114463781376722/8fa9e0e3f20643b4a6ac230fa1bb0c24/artifacts
+deleted_time: 1736254956107
+end_time: 1736251385939
+entry_point_name: ''
+experiment_id: '725114463781376722'
+lifecycle_stage: deleted
+run_id: 8fa9e0e3f20643b4a6ac230fa1bb0c24
+run_name: dashing-grouse-50
+run_uuid: 8fa9e0e3f20643b4a6ac230fa1bb0c24
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736251377714
+status: 3
+tags: []
+user_id: zamir

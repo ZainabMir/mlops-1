@@ -1,18 +1,16 @@
-# model.py
 from sklearn.datasets import load_iris
-from sklearn.model_selection import train_test_split
+from sklearn.model_selection import cross_val_score
 from sklearn.linear_model import LogisticRegression
-from sklearn.metrics import accuracy_score
 
 # Load data
 data = load_iris()
-X_train, X_test, y_train, y_test = train_test_split(data.data, data.target, test_size=0.2, random_state=42)
 
-# Train model
+# Train and evaluate model using cross-validation
 model = LogisticRegression(max_iter=200)
-model.fit(X_train, y_train)
 
-# Evaluate model
-predictions = model.predict(X_test)
-accuracy = accuracy_score(y_test, predictions)
-print(f"Model Accuracy: {accuracy}")
+# Perform cross-validation with 5 folds
+cv_scores = cross_val_score(model, data.data, data.target, cv=5, scoring='accuracy')
+
+# Print the cross-validation accuracy scores and the average score
+print(f"Cross-validation accuracy scores: {cv_scores}")
+print(f"Average accuracy: {cv_scores.mean()}")

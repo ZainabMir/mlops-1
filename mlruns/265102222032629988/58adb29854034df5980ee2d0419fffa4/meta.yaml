@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/zamir/mlops-1/mlruns/265102222032629988/58adb29854034df5980ee2d0419fffa4/artifacts
+end_time: 1736254151811
+entry_point_name: ''
+experiment_id: '265102222032629988'
+lifecycle_stage: active
+run_id: 58adb29854034df5980ee2d0419fffa4
+run_name: industrious-hen-71
+run_uuid: 58adb29854034df5980ee2d0419fffa4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736254148021
+status: 3
+tags: []
+user_id: zamir

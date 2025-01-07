@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/zamir/mlops-1/mlruns/265102222032629988/c529c55e439f43ea9c63f781b5fa8f8b/artifacts
+end_time: 1736254246320
+entry_point_name: ''
+experiment_id: '265102222032629988'
+lifecycle_stage: active
+run_id: c529c55e439f43ea9c63f781b5fa8f8b
+run_name: capricious-ox-775
+run_uuid: c529c55e439f43ea9c63f781b5fa8f8b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736254242372
+status: 3
+tags: []
+user_id: zamir

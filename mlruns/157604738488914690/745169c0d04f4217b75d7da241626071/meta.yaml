@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/zamir/mlops-1/mlruns/157604738488914690/745169c0d04f4217b75d7da241626071/artifacts
+end_time: 1736251133050
+entry_point_name: ''
+experiment_id: '157604738488914690'
+lifecycle_stage: active
+run_id: 745169c0d04f4217b75d7da241626071
+run_name: rogue-bee-195
+run_uuid: 745169c0d04f4217b75d7da241626071
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736251125961
+status: 3
+tags: []
+user_id: zamir

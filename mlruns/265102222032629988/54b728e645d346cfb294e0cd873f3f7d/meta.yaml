@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/zamir/mlops-1/mlruns/265102222032629988/54b728e645d346cfb294e0cd873f3f7d/artifacts
+end_time: 1736254154799
+entry_point_name: ''
+experiment_id: '265102222032629988'
+lifecycle_stage: active
+run_id: 54b728e645d346cfb294e0cd873f3f7d
+run_name: casual-crab-370
+run_uuid: 54b728e645d346cfb294e0cd873f3f7d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736254151824
+status: 3
+tags: []
+user_id: zamir

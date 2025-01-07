@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/zamir/mlops-1/mlruns/157604738488914690/e1102f8380cc41b5b19b9c2e7be6afe5/artifacts
+end_time: 1736251139370
+entry_point_name: ''
+experiment_id: '157604738488914690'
+lifecycle_stage: active
+run_id: e1102f8380cc41b5b19b9c2e7be6afe5
+run_name: powerful-dove-474
+run_uuid: e1102f8380cc41b5b19b9c2e7be6afe5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736251133115
+status: 3
+tags: []
+user_id: zamir

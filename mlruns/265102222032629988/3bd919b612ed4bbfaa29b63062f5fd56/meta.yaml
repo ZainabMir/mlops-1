@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/zamir/mlops-1/mlruns/265102222032629988/3bd919b612ed4bbfaa29b63062f5fd56/artifacts
+end_time: 1736254895474
+entry_point_name: ''
+experiment_id: '265102222032629988'
+lifecycle_stage: active
+run_id: 3bd919b612ed4bbfaa29b63062f5fd56
+run_name: debonair-boar-248
+run_uuid: 3bd919b612ed4bbfaa29b63062f5fd56
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736254890254
+status: 3
+tags: []
+user_id: zamir

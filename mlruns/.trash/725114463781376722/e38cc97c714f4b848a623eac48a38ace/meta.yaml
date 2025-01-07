@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/zamir/mlops-1/mlruns/725114463781376722/e38cc97c714f4b848a623eac48a38ace/artifacts
+deleted_time: 1736254956107
+end_time: 1736251370437
+entry_point_name: ''
+experiment_id: '725114463781376722'
+lifecycle_stage: deleted
+run_id: e38cc97c714f4b848a623eac48a38ace
+run_name: gifted-stoat-268
+run_uuid: e38cc97c714f4b848a623eac48a38ace
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736251364088
+status: 3
+tags: []
+user_id: zamir

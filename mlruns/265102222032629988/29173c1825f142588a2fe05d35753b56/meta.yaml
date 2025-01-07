@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/zamir/mlops-1/mlruns/265102222032629988/29173c1825f142588a2fe05d35753b56/artifacts
+end_time: 1736254249320
+entry_point_name: ''
+experiment_id: '265102222032629988'
+lifecycle_stage: active
+run_id: 29173c1825f142588a2fe05d35753b56
+run_name: bright-mule-395
+run_uuid: 29173c1825f142588a2fe05d35753b56
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736254246333
+status: 3
+tags: []
+user_id: zamir

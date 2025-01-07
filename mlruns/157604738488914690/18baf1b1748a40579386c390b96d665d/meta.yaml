@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/zamir/mlops-1/mlruns/157604738488914690/18baf1b1748a40579386c390b96d665d/artifacts
+end_time: 1736251146125
+entry_point_name: ''
+experiment_id: '157604738488914690'
+lifecycle_stage: active
+run_id: 18baf1b1748a40579386c390b96d665d
+run_name: polite-lark-919
+run_uuid: 18baf1b1748a40579386c390b96d665d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736251139426
+status: 3
+tags: []
+user_id: zamir

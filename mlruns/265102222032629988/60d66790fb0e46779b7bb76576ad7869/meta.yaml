@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/zamir/mlops-1/mlruns/265102222032629988/60d66790fb0e46779b7bb76576ad7869/artifacts
+end_time: 1736254899768
+entry_point_name: ''
+experiment_id: '265102222032629988'
+lifecycle_stage: active
+run_id: 60d66790fb0e46779b7bb76576ad7869
+run_name: chill-steed-382
+run_uuid: 60d66790fb0e46779b7bb76576ad7869
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736254895506
+status: 3
+tags: []
+user_id: zamir

@@ -1,0 +1,6 @@
+artifact_location: file:///C:/Users/zamir/mlops-1/mlruns/157604738488914690
+creation_time: 1736251124078
+experiment_id: '157604738488914690'
+last_update_time: 1736251124078
+lifecycle_stage: active
+name: Wine_Quality_Model_Experiment

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bhaskar/Documents/Personal/Study/BITS/SEM%20III/mlops/Assignemnt/mlops-1/mlruns/337775796373181608/e61e267dffdc4c28af458379f1349fc7/artifacts
+end_time: 1737641003143
+entry_point_name: ''
+experiment_id: '337775796373181608'
+lifecycle_stage: active
+run_id: e61e267dffdc4c28af458379f1349fc7
+run_name: fun-chimp-465
+run_uuid: e61e267dffdc4c28af458379f1349fc7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737641001584
+status: 3
+tags: []
+user_id: bhaskar

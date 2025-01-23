@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bhaskar/Documents/Personal/Study/BITS/SEM%20III/mlops/Assignemnt/mlops-1/mlruns/337775796373181608/a896d64ca1ad438895ab88bd2c8e7d33/artifacts
+end_time: 1737641001553
+entry_point_name: ''
+experiment_id: '337775796373181608'
+lifecycle_stage: active
+run_id: a896d64ca1ad438895ab88bd2c8e7d33
+run_name: judicious-cub-36
+run_uuid: a896d64ca1ad438895ab88bd2c8e7d33
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737640999959
+status: 3
+tags: []
+user_id: bhaskar

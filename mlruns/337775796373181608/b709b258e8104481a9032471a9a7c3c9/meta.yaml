@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bhaskar/Documents/Personal/Study/BITS/SEM%20III/mlops/Assignemnt/mlops-1/mlruns/337775796373181608/b709b258e8104481a9032471a9a7c3c9/artifacts
+end_time: 1737641050000
+entry_point_name: ''
+experiment_id: '337775796373181608'
+lifecycle_stage: active
+run_id: b709b258e8104481a9032471a9a7c3c9
+run_name: fearless-tern-283
+run_uuid: b709b258e8104481a9032471a9a7c3c9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737641047841
+status: 3
+tags: []
+user_id: bhaskar

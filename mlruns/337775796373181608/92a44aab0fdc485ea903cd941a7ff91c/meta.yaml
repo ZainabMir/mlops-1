@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bhaskar/Documents/Personal/Study/BITS/SEM%20III/mlops/Assignemnt/mlops-1/mlruns/337775796373181608/92a44aab0fdc485ea903cd941a7ff91c/artifacts
+end_time: 1737641045775
+entry_point_name: ''
+experiment_id: '337775796373181608'
+lifecycle_stage: active
+run_id: 92a44aab0fdc485ea903cd941a7ff91c
+run_name: abundant-snail-716
+run_uuid: 92a44aab0fdc485ea903cd941a7ff91c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737641044308
+status: 3
+tags: []
+user_id: bhaskar

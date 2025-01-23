@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bhaskar/Documents/Personal/Study/BITS/SEM%20III/mlops/Assignemnt/mlops-1/mlruns/337775796373181608/0adcbf7398d4430ba0d313ce93f86d4a/artifacts
+end_time: 1737640982650
+entry_point_name: ''
+experiment_id: '337775796373181608'
+lifecycle_stage: active
+run_id: 0adcbf7398d4430ba0d313ce93f86d4a
+run_name: abrasive-worm-383
+run_uuid: 0adcbf7398d4430ba0d313ce93f86d4a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737640981303
+status: 3
+tags: []
+user_id: bhaskar

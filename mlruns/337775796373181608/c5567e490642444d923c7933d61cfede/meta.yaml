@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bhaskar/Documents/Personal/Study/BITS/SEM%20III/mlops/Assignemnt/mlops-1/mlruns/337775796373181608/c5567e490642444d923c7933d61cfede/artifacts
+end_time: 1737641004696
+entry_point_name: ''
+experiment_id: '337775796373181608'
+lifecycle_stage: active
+run_id: c5567e490642444d923c7933d61cfede
+run_name: orderly-mink-552
+run_uuid: c5567e490642444d923c7933d61cfede
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737641003171
+status: 3
+tags: []
+user_id: bhaskar

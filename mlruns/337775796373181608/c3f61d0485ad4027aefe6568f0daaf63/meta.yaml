@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bhaskar/Documents/Personal/Study/BITS/SEM%20III/mlops/Assignemnt/mlops-1/mlruns/337775796373181608/c3f61d0485ad4027aefe6568f0daaf63/artifacts
+end_time: 1737641020545
+entry_point_name: ''
+experiment_id: '337775796373181608'
+lifecycle_stage: active
+run_id: c3f61d0485ad4027aefe6568f0daaf63
+run_name: enchanting-ray-32
+run_uuid: c3f61d0485ad4027aefe6568f0daaf63
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737641019190
+status: 3
+tags: []
+user_id: bhaskar

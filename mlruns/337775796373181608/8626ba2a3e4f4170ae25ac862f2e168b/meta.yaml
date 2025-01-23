@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bhaskar/Documents/Personal/Study/BITS/SEM%20III/mlops/Assignemnt/mlops-1/mlruns/337775796373181608/8626ba2a3e4f4170ae25ac862f2e168b/artifacts
+end_time: 1737640998143
+entry_point_name: ''
+experiment_id: '337775796373181608'
+lifecycle_stage: active
+run_id: 8626ba2a3e4f4170ae25ac862f2e168b
+run_name: funny-tern-674
+run_uuid: 8626ba2a3e4f4170ae25ac862f2e168b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737640996206
+status: 3
+tags: []
+user_id: bhaskar

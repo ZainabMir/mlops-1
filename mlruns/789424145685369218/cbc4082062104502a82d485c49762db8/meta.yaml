@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bhaskar/Documents/Personal/Study/BITS/SEM%20III/mlops/Assignemnt/mlops-1/mlruns/789424145685369218/cbc4082062104502a82d485c49762db8/artifacts
+end_time: 1737641293168
+entry_point_name: ''
+experiment_id: '789424145685369218'
+lifecycle_stage: active
+run_id: cbc4082062104502a82d485c49762db8
+run_name: unique-mole-987
+run_uuid: cbc4082062104502a82d485c49762db8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737641293150
+status: 4
+tags: []
+user_id: bhaskar

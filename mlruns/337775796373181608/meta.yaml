@@ -1,0 +1,6 @@
+artifact_location: file:///home/bhaskar/Documents/Personal/Study/BITS/SEM%20III/mlops/Assignemnt/mlops-1/mlruns/337775796373181608
+creation_time: 1737640979093
+experiment_id: '337775796373181608'
+last_update_time: 1737640979093
+lifecycle_stage: active
+name: Iris_Model_Hyperparameter_Tuning

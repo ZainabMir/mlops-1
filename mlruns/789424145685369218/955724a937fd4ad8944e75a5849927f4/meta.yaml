@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bhaskar/Documents/Personal/Study/BITS/SEM%20III/mlops/Assignemnt/mlops-1/mlruns/789424145685369218/955724a937fd4ad8944e75a5849927f4/artifacts
+end_time: 1737644227458
+entry_point_name: ''
+experiment_id: '789424145685369218'
+lifecycle_stage: active
+run_id: 955724a937fd4ad8944e75a5849927f4
+run_name: inquisitive-elk-287
+run_uuid: 955724a937fd4ad8944e75a5849927f4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737644226244
+status: 3
+tags: []
+user_id: bhaskar

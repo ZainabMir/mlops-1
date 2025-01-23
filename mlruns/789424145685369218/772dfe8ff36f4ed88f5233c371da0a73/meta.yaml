@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bhaskar/Documents/Personal/Study/BITS/SEM%20III/mlops/Assignemnt/mlops-1/mlruns/789424145685369218/772dfe8ff36f4ed88f5233c371da0a73/artifacts
+end_time: 1737644270634
+entry_point_name: ''
+experiment_id: '789424145685369218'
+lifecycle_stage: active
+run_id: 772dfe8ff36f4ed88f5233c371da0a73
+run_name: spiffy-cow-742
+run_uuid: 772dfe8ff36f4ed88f5233c371da0a73
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737644268824
+status: 3
+tags: []
+user_id: bhaskar

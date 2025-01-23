@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bhaskar/Documents/Personal/Study/BITS/SEM%20III/mlops/Assignemnt/mlops-1/mlruns/789424145685369218/61c706477b934410b6d62bfb480e9199/artifacts
+end_time: 1737644265654
+entry_point_name: ''
+experiment_id: '789424145685369218'
+lifecycle_stage: active
+run_id: 61c706477b934410b6d62bfb480e9199
+run_name: calm-shrimp-263
+run_uuid: 61c706477b934410b6d62bfb480e9199
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737644264181
+status: 3
+tags: []
+user_id: bhaskar

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bhaskar/Documents/Personal/Study/BITS/SEM%20III/mlops/Assignemnt/mlops-1/mlruns/789424145685369218/5190b7ee58ca425b9294a788e73c9110/artifacts
+end_time: 1737644229971
+entry_point_name: ''
+experiment_id: '789424145685369218'
+lifecycle_stage: active
+run_id: 5190b7ee58ca425b9294a788e73c9110
+run_name: adaptable-stork-598
+run_uuid: 5190b7ee58ca425b9294a788e73c9110
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737644228736
+status: 3
+tags: []
+user_id: bhaskar

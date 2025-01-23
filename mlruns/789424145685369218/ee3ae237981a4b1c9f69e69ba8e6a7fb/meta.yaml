@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bhaskar/Documents/Personal/Study/BITS/SEM%20III/mlops/Assignemnt/mlops-1/mlruns/789424145685369218/ee3ae237981a4b1c9f69e69ba8e6a7fb/artifacts
+end_time: 1737644275933
+entry_point_name: ''
+experiment_id: '789424145685369218'
+lifecycle_stage: active
+run_id: ee3ae237981a4b1c9f69e69ba8e6a7fb
+run_name: melodic-hound-928
+run_uuid: ee3ae237981a4b1c9f69e69ba8e6a7fb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737644274340
+status: 3
+tags: []
+user_id: bhaskar

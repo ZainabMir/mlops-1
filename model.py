@@ -34,8 +34,6 @@ def objective(trial):
         # Create and train the model
         model = LogisticRegression(max_iter=max_iter, C=C, solver=solver, random_state=42)
         score = cross_val_score(model, X_train, y_train, cv=3, scoring='accuracy').mean()
-        
-        predictions = model.predict(X_test)
 
         # Log metrics
         mlflow.log_metric("accuracy", score)
@@ -79,3 +77,8 @@ with mlflow.start_run():
     mlflow.log_metric("final_Precision", precision)
     mlflow.log_metric("final_Recall", recall)
     mlflow.sklearn.log_model(final_model, "final_model")
+    
+import joblib
+
+# Save the model
+joblib.dump(final_model, 'model.pkl')

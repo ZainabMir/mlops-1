@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bhaskar/Documents/Personal/Study/BITS/SEM%20III/mlops/Assignemnt/mlops-1/mlruns/789424145685369218/6d7bed313eef444e9d45214390286faf/artifacts
+end_time: 1737644235058
+entry_point_name: ''
+experiment_id: '789424145685369218'
+lifecycle_stage: active
+run_id: 6d7bed313eef444e9d45214390286faf
+run_name: dazzling-panda-284
+run_uuid: 6d7bed313eef444e9d45214390286faf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737644233798
+status: 3
+tags: []
+user_id: bhaskar

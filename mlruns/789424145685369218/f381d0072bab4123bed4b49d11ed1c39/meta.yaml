@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bhaskar/Documents/Personal/Study/BITS/SEM%20III/mlops/Assignemnt/mlops-1/mlruns/789424145685369218/f381d0072bab4123bed4b49d11ed1c39/artifacts
+end_time: 1737644254860
+entry_point_name: ''
+experiment_id: '789424145685369218'
+lifecycle_stage: active
+run_id: f381d0072bab4123bed4b49d11ed1c39
+run_name: rambunctious-doe-669
+run_uuid: f381d0072bab4123bed4b49d11ed1c39
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737644253387
+status: 3
+tags: []
+user_id: bhaskar

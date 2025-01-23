@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bhaskar/Documents/Personal/Study/BITS/SEM%20III/mlops/Assignemnt/mlops-1/mlruns/789424145685369218/e6f81ca58fe84ae18607e3d737df7334/artifacts
+end_time: 1737644268792
+entry_point_name: ''
+experiment_id: '789424145685369218'
+lifecycle_stage: active
+run_id: e6f81ca58fe84ae18607e3d737df7334
+run_name: gregarious-kit-892
+run_uuid: e6f81ca58fe84ae18607e3d737df7334
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737644267298
+status: 3
+tags: []
+user_id: bhaskar

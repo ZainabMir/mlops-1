@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bhaskar/Documents/Personal/Study/BITS/SEM%20III/mlops/Assignemnt/mlops-1/mlruns/789424145685369218/dcc5a58516c54e4e968231e2e4136bcb/artifacts
+end_time: 1737644284008
+entry_point_name: ''
+experiment_id: '789424145685369218'
+lifecycle_stage: active
+run_id: dcc5a58516c54e4e968231e2e4136bcb
+run_name: rogue-stoat-408
+run_uuid: dcc5a58516c54e4e968231e2e4136bcb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737644282143
+status: 3
+tags: []
+user_id: bhaskar

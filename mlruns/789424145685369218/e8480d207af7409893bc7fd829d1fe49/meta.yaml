@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bhaskar/Documents/Personal/Study/BITS/SEM%20III/mlops/Assignemnt/mlops-1/mlruns/789424145685369218/e8480d207af7409893bc7fd829d1fe49/artifacts
+end_time: 1737644236369
+entry_point_name: ''
+experiment_id: '789424145685369218'
+lifecycle_stage: active
+run_id: e8480d207af7409893bc7fd829d1fe49
+run_name: nebulous-dolphin-240
+run_uuid: e8480d207af7409893bc7fd829d1fe49
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737644235082
+status: 3
+tags: []
+user_id: bhaskar

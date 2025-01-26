@@ -16,13 +16,13 @@ mlflow.set_experiment("Iris_Model_Hyperparameter_Tuning New")
 # data = load_iris()
 
 # X, y = data.data, data.target
-df = pd.read_csv("Iris.csv")
-X = df.drop(columns=["species"])
+df = pd.read_csv("data/Iris.csv")
+X = df.drop(columns=["Species"])
 # Encode the target variable
 label_encoder = LabelEncoder()
-df['species'] = label_encoder.fit_transform(df['species'])
+df['Species'] = label_encoder.fit_transform(df['Species'])
 
-y = df["species"]
+y = df["Species"]
 # Split data into training and testing sets
 X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
 

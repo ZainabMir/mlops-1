@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bhaskar/Documents/Personal/Study/BITS/SEM%20III/mlops/Assignemnt/mlops-1/mlruns/789424145685369218/88ff7786084d44f78fd2103aa6127510/artifacts
+end_time: 1737879357656
+entry_point_name: ''
+experiment_id: '789424145685369218'
+lifecycle_stage: active
+run_id: 88ff7786084d44f78fd2103aa6127510
+run_name: loud-midge-389
+run_uuid: 88ff7786084d44f78fd2103aa6127510
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737879356191
+status: 3
+tags: []
+user_id: bhaskar

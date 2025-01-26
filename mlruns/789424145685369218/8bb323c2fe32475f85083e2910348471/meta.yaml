@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bhaskar/Documents/Personal/Study/BITS/SEM%20III/mlops/Assignemnt/mlops-1/mlruns/789424145685369218/8bb323c2fe32475f85083e2910348471/artifacts
+end_time: 1737879366194
+entry_point_name: ''
+experiment_id: '789424145685369218'
+lifecycle_stage: active
+run_id: 8bb323c2fe32475f85083e2910348471
+run_name: colorful-grub-960
+run_uuid: 8bb323c2fe32475f85083e2910348471
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737879364280
+status: 3
+tags: []
+user_id: bhaskar

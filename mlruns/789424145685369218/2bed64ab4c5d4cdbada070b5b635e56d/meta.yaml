@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bhaskar/Documents/Personal/Study/BITS/SEM%20III/mlops/Assignemnt/mlops-1/mlruns/789424145685369218/2bed64ab4c5d4cdbada070b5b635e56d/artifacts
+end_time: 1737879328118
+entry_point_name: ''
+experiment_id: '789424145685369218'
+lifecycle_stage: active
+run_id: 2bed64ab4c5d4cdbada070b5b635e56d
+run_name: intrigued-hound-205
+run_uuid: 2bed64ab4c5d4cdbada070b5b635e56d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737879325944
+status: 3
+tags: []
+user_id: bhaskar

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bhaskar/Documents/Personal/Study/BITS/SEM%20III/mlops/Assignemnt/mlops-1/mlruns/789424145685369218/dd203ae7678c425a886c42f07ee18b8d/artifacts
+end_time: 1737879352526
+entry_point_name: ''
+experiment_id: '789424145685369218'
+lifecycle_stage: active
+run_id: dd203ae7678c425a886c42f07ee18b8d
+run_name: resilient-moth-752
+run_uuid: dd203ae7678c425a886c42f07ee18b8d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737879350579
+status: 3
+tags: []
+user_id: bhaskar

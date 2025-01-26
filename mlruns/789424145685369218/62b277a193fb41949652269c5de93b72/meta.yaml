@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bhaskar/Documents/Personal/Study/BITS/SEM%20III/mlops/Assignemnt/mlops-1/mlruns/789424145685369218/62b277a193fb41949652269c5de93b72/artifacts
+end_time: 1737879386185
+entry_point_name: ''
+experiment_id: '789424145685369218'
+lifecycle_stage: active
+run_id: 62b277a193fb41949652269c5de93b72
+run_name: adventurous-fish-351
+run_uuid: 62b277a193fb41949652269c5de93b72
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737879384385
+status: 3
+tags: []
+user_id: bhaskar

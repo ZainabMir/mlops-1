@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bhaskar/Documents/Personal/Study/BITS/SEM%20III/mlops/Assignemnt/mlops-1/mlruns/789424145685369218/5286efb9c56144d59b00d91467662d8c/artifacts
+end_time: 1737879335019
+entry_point_name: ''
+experiment_id: '789424145685369218'
+lifecycle_stage: active
+run_id: 5286efb9c56144d59b00d91467662d8c
+run_name: worried-flea-283
+run_uuid: 5286efb9c56144d59b00d91467662d8c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737879333157
+status: 3
+tags: []
+user_id: bhaskar

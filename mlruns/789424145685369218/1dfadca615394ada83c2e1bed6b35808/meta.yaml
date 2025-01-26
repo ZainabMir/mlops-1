@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bhaskar/Documents/Personal/Study/BITS/SEM%20III/mlops/Assignemnt/mlops-1/mlruns/789424145685369218/1dfadca615394ada83c2e1bed6b35808/artifacts
+end_time: 1737879379040
+entry_point_name: ''
+experiment_id: '789424145685369218'
+lifecycle_stage: active
+run_id: 1dfadca615394ada83c2e1bed6b35808
+run_name: indecisive-skink-835
+run_uuid: 1dfadca615394ada83c2e1bed6b35808
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737879377351
+status: 3
+tags: []
+user_id: bhaskar

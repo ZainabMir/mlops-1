@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bhaskar/Documents/Personal/Study/BITS/SEM%20III/mlops/Assignemnt/mlops-1/mlruns/789424145685369218/dd642177c727468e94eda04895bcdb62/artifacts
+end_time: 1737879384352
+entry_point_name: ''
+experiment_id: '789424145685369218'
+lifecycle_stage: active
+run_id: dd642177c727468e94eda04895bcdb62
+run_name: nervous-skunk-508
+run_uuid: dd642177c727468e94eda04895bcdb62
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737879382575
+status: 3
+tags: []
+user_id: bhaskar

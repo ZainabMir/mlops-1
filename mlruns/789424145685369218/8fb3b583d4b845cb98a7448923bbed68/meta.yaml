@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bhaskar/Documents/Personal/Study/BITS/SEM%20III/mlops/Assignemnt/mlops-1/mlruns/789424145685369218/8fb3b583d4b845cb98a7448923bbed68/artifacts
+end_time: 1737879356166
+entry_point_name: ''
+experiment_id: '789424145685369218'
+lifecycle_stage: active
+run_id: 8fb3b583d4b845cb98a7448923bbed68
+run_name: powerful-skink-18
+run_uuid: 8fb3b583d4b845cb98a7448923bbed68
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737879354341
+status: 3
+tags: []
+user_id: bhaskar

@@ -33,7 +33,7 @@ jobs:
 
       - name: Test Model Script
         run: |
-          python experiment_tracking.py
+          python model.py
 
       - name: Deploy (Dummy Step)
         run: echo "Deployment Step Placeholder"

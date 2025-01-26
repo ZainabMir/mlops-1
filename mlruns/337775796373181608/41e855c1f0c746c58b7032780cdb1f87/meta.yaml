@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bhaskar/Documents/Personal/Study/BITS/SEM%20III/mlops/Assignemnt/mlops-1/mlruns/337775796373181608/41e855c1f0c746c58b7032780cdb1f87/artifacts
+end_time: 1737641014306
+entry_point_name: ''
+experiment_id: '337775796373181608'
+lifecycle_stage: active
+run_id: 41e855c1f0c746c58b7032780cdb1f87
+run_name: enchanting-mule-884
+run_uuid: 41e855c1f0c746c58b7032780cdb1f87
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737641013056
+status: 3
+tags: []
+user_id: bhaskar

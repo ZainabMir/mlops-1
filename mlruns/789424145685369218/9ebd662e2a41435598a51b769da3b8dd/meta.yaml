@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bhaskar/Documents/Personal/Study/BITS/SEM%20III/mlops/Assignemnt/mlops-1/mlruns/789424145685369218/9ebd662e2a41435598a51b769da3b8dd/artifacts
+end_time: 1737879336835
+entry_point_name: ''
+experiment_id: '789424145685369218'
+lifecycle_stage: active
+run_id: 9ebd662e2a41435598a51b769da3b8dd
+run_name: adaptable-mouse-703
+run_uuid: 9ebd662e2a41435598a51b769da3b8dd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737879335067
+status: 3
+tags: []
+user_id: bhaskar

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bhaskar/Documents/Personal/Study/BITS/SEM%20III/mlops/Assignemnt/mlops-1/mlruns/337775796373181608/d2be4028b552460c94b38a47c3702ce8/artifacts
+end_time: 1737641047803
+entry_point_name: ''
+experiment_id: '337775796373181608'
+lifecycle_stage: active
+run_id: d2be4028b552460c94b38a47c3702ce8
+run_name: languid-ant-668
+run_uuid: d2be4028b552460c94b38a47c3702ce8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737641045800
+status: 3
+tags: []
+user_id: bhaskar

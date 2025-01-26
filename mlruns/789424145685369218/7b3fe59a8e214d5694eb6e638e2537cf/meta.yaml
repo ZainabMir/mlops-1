@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bhaskar/Documents/Personal/Study/BITS/SEM%20III/mlops/Assignemnt/mlops-1/mlruns/789424145685369218/7b3fe59a8e214d5694eb6e638e2537cf/artifacts
+end_time: 1737644248759
+entry_point_name: ''
+experiment_id: '789424145685369218'
+lifecycle_stage: active
+run_id: 7b3fe59a8e214d5694eb6e638e2537cf
+run_name: welcoming-duck-662
+run_uuid: 7b3fe59a8e214d5694eb6e638e2537cf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737644247211
+status: 3
+tags: []
+user_id: bhaskar

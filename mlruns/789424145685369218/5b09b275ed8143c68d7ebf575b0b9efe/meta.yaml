@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bhaskar/Documents/Personal/Study/BITS/SEM%20III/mlops/Assignemnt/mlops-1/mlruns/789424145685369218/5b09b275ed8143c68d7ebf575b0b9efe/artifacts
+end_time: 1737644226221
+entry_point_name: ''
+experiment_id: '789424145685369218'
+lifecycle_stage: active
+run_id: 5b09b275ed8143c68d7ebf575b0b9efe
+run_name: trusting-mink-903
+run_uuid: 5b09b275ed8143c68d7ebf575b0b9efe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737644224976
+status: 3
+tags: []
+user_id: bhaskar

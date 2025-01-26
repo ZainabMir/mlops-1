@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bhaskar/Documents/Personal/Study/BITS/SEM%20III/mlops/Assignemnt/mlops-1/mlruns/789424145685369218/3f15f136546149719cfdeb299f315e0e/artifacts
+end_time: 1737879382542
+entry_point_name: ''
+experiment_id: '789424145685369218'
+lifecycle_stage: active
+run_id: 3f15f136546149719cfdeb299f315e0e
+run_name: agreeable-cow-941
+run_uuid: 3f15f136546149719cfdeb299f315e0e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737879380818
+status: 3
+tags: []
+user_id: bhaskar

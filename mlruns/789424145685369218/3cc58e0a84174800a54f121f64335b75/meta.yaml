@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bhaskar/Documents/Personal/Study/BITS/SEM%20III/mlops/Assignemnt/mlops-1/mlruns/789424145685369218/3cc58e0a84174800a54f121f64335b75/artifacts
+end_time: 1737644217538
+entry_point_name: ''
+experiment_id: '789424145685369218'
+lifecycle_stage: active
+run_id: 3cc58e0a84174800a54f121f64335b75
+run_name: beautiful-perch-381
+run_uuid: 3cc58e0a84174800a54f121f64335b75
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737644216334
+status: 3
+tags: []
+user_id: bhaskar

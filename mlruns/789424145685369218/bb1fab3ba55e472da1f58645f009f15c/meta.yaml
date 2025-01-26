@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bhaskar/Documents/Personal/Study/BITS/SEM%20III/mlops/Assignemnt/mlops-1/mlruns/789424145685369218/bb1fab3ba55e472da1f58645f009f15c/artifacts
+end_time: 1737879364235
+entry_point_name: ''
+experiment_id: '789424145685369218'
+lifecycle_stage: active
+run_id: bb1fab3ba55e472da1f58645f009f15c
+run_name: bedecked-jay-17
+run_uuid: bb1fab3ba55e472da1f58645f009f15c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737879362837
+status: 3
+tags: []
+user_id: bhaskar

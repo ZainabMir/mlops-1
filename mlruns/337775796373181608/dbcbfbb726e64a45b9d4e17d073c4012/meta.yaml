@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bhaskar/Documents/Personal/Study/BITS/SEM%20III/mlops/Assignemnt/mlops-1/mlruns/337775796373181608/dbcbfbb726e64a45b9d4e17d073c4012/artifacts
+end_time: 1737641053675
+entry_point_name: ''
+experiment_id: '337775796373181608'
+lifecycle_stage: active
+run_id: dbcbfbb726e64a45b9d4e17d073c4012
+run_name: stately-calf-288
+run_uuid: dbcbfbb726e64a45b9d4e17d073c4012
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737641051956
+status: 3
+tags: []
+user_id: bhaskar

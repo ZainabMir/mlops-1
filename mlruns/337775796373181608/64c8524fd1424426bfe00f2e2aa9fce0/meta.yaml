@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bhaskar/Documents/Personal/Study/BITS/SEM%20III/mlops/Assignemnt/mlops-1/mlruns/337775796373181608/64c8524fd1424426bfe00f2e2aa9fce0/artifacts
+end_time: 1737640996175
+entry_point_name: ''
+experiment_id: '337775796373181608'
+lifecycle_stage: active
+run_id: 64c8524fd1424426bfe00f2e2aa9fce0
+run_name: resilient-bird-167
+run_uuid: 64c8524fd1424426bfe00f2e2aa9fce0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737640994406
+status: 3
+tags: []
+user_id: bhaskar

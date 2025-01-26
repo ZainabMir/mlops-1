@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bhaskar/Documents/Personal/Study/BITS/SEM%20III/mlops/Assignemnt/mlops-1/mlruns/337775796373181608/1e1a07918f0041c595f4a36808ab46e8/artifacts
+end_time: 1737640999924
+entry_point_name: ''
+experiment_id: '337775796373181608'
+lifecycle_stage: active
+run_id: 1e1a07918f0041c595f4a36808ab46e8
+run_name: rebellious-robin-199
+run_uuid: 1e1a07918f0041c595f4a36808ab46e8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737640998171
+status: 3
+tags: []
+user_id: bhaskar

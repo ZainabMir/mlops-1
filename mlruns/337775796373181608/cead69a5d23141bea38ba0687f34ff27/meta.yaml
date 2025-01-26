@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bhaskar/Documents/Personal/Study/BITS/SEM%20III/mlops/Assignemnt/mlops-1/mlruns/337775796373181608/cead69a5d23141bea38ba0687f34ff27/artifacts
+end_time: 1737641041068
+entry_point_name: ''
+experiment_id: '337775796373181608'
+lifecycle_stage: active
+run_id: cead69a5d23141bea38ba0687f34ff27
+run_name: nosy-slug-575
+run_uuid: cead69a5d23141bea38ba0687f34ff27
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737641039162
+status: 3
+tags: []
+user_id: bhaskar

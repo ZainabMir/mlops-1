@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bhaskar/Documents/Personal/Study/BITS/SEM%20III/mlops/Assignemnt/mlops-1/mlruns/789424145685369218/675cd218efbd4248bda7844f5ba2146c/artifacts
+end_time: 1737879369868
+entry_point_name: ''
+experiment_id: '789424145685369218'
+lifecycle_stage: active
+run_id: 675cd218efbd4248bda7844f5ba2146c
+run_name: big-shrike-393
+run_uuid: 675cd218efbd4248bda7844f5ba2146c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737879368007
+status: 3
+tags: []
+user_id: bhaskar

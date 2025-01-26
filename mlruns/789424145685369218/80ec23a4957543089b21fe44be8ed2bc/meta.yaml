@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bhaskar/Documents/Personal/Study/BITS/SEM%20III/mlops/Assignemnt/mlops-1/mlruns/789424145685369218/80ec23a4957543089b21fe44be8ed2bc/artifacts
+end_time: 1737644262643
+entry_point_name: ''
+experiment_id: '789424145685369218'
+lifecycle_stage: active
+run_id: 80ec23a4957543089b21fe44be8ed2bc
+run_name: sedate-sheep-696
+run_uuid: 80ec23a4957543089b21fe44be8ed2bc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737644261118
+status: 3
+tags: []
+user_id: bhaskar

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bhaskar/Documents/Personal/Study/BITS/SEM%20III/mlops/Assignemnt/mlops-1/mlruns/337775796373181608/43539a8e4eb645d587f02c243afc0f65/artifacts
+end_time: 1737641019168
+entry_point_name: ''
+experiment_id: '337775796373181608'
+lifecycle_stage: active
+run_id: 43539a8e4eb645d587f02c243afc0f65
+run_name: classy-colt-341
+run_uuid: 43539a8e4eb645d587f02c243afc0f65
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737641017777
+status: 3
+tags: []
+user_id: bhaskar

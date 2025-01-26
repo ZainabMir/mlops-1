@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bhaskar/Documents/Personal/Study/BITS/SEM%20III/mlops/Assignemnt/mlops-1/mlruns/789424145685369218/5415a9df66514ce1b32d015a87166f5b/artifacts
+end_time: 1737879397292
+entry_point_name: ''
+experiment_id: '789424145685369218'
+lifecycle_stage: active
+run_id: 5415a9df66514ce1b32d015a87166f5b
+run_name: flawless-hound-976
+run_uuid: 5415a9df66514ce1b32d015a87166f5b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737879395520
+status: 3
+tags: []
+user_id: bhaskar

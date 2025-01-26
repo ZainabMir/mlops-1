@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bhaskar/Documents/Personal/Study/BITS/SEM%20III/mlops/Assignemnt/mlops-1/mlruns/789424145685369218/39b72a5d80bd41c1b44e53cd1bee911d/artifacts
+end_time: 1737879346169
+entry_point_name: ''
+experiment_id: '789424145685369218'
+lifecycle_stage: active
+run_id: 39b72a5d80bd41c1b44e53cd1bee911d
+run_name: dashing-fawn-433
+run_uuid: 39b72a5d80bd41c1b44e53cd1bee911d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737879344747
+status: 3
+tags: []
+user_id: bhaskar

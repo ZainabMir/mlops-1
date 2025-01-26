@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bhaskar/Documents/Personal/Study/BITS/SEM%20III/mlops/Assignemnt/mlops-1/mlruns/337775796373181608/c059d03cb74840ec835a78e64775d21e/artifacts
+end_time: 1737641061505
+entry_point_name: ''
+experiment_id: '337775796373181608'
+lifecycle_stage: active
+run_id: c059d03cb74840ec835a78e64775d21e
+run_name: crawling-kite-623
+run_uuid: c059d03cb74840ec835a78e64775d21e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737641060106
+status: 3
+tags: []
+user_id: bhaskar

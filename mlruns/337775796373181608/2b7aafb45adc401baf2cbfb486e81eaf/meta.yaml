@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bhaskar/Documents/Personal/Study/BITS/SEM%20III/mlops/Assignemnt/mlops-1/mlruns/337775796373181608/2b7aafb45adc401baf2cbfb486e81eaf/artifacts
+end_time: 1737641017748
+entry_point_name: ''
+experiment_id: '337775796373181608'
+lifecycle_stage: active
+run_id: 2b7aafb45adc401baf2cbfb486e81eaf
+run_name: delicate-moth-26
+run_uuid: 2b7aafb45adc401baf2cbfb486e81eaf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737641015797
+status: 3
+tags: []
+user_id: bhaskar

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bhaskar/Documents/Personal/Study/BITS/SEM%20III/mlops/Assignemnt/mlops-1/mlruns/337775796373181608/6d7f163519884884b41eace320313336/artifacts
+end_time: 1737641062908
+entry_point_name: ''
+experiment_id: '337775796373181608'
+lifecycle_stage: active
+run_id: 6d7f163519884884b41eace320313336
+run_name: salty-hen-500
+run_uuid: 6d7f163519884884b41eace320313336
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737641061527
+status: 3
+tags: []
+user_id: bhaskar

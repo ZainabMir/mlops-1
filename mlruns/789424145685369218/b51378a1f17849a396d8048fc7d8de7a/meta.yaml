@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bhaskar/Documents/Personal/Study/BITS/SEM%20III/mlops/Assignemnt/mlops-1/mlruns/789424145685369218/b51378a1f17849a396d8048fc7d8de7a/artifacts
+end_time: 1737644277911
+entry_point_name: ''
+experiment_id: '789424145685369218'
+lifecycle_stage: active
+run_id: b51378a1f17849a396d8048fc7d8de7a
+run_name: welcoming-shrew-631
+run_uuid: b51378a1f17849a396d8048fc7d8de7a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737644275958
+status: 3
+tags: []
+user_id: bhaskar

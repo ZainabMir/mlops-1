@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bhaskar/Documents/Personal/Study/BITS/SEM%20III/mlops/Assignemnt/mlops-1/mlruns/789424145685369218/b3703b8b3a6e4419892df197783c4521/artifacts
+end_time: 1737644282106
+entry_point_name: ''
+experiment_id: '789424145685369218'
+lifecycle_stage: active
+run_id: b3703b8b3a6e4419892df197783c4521
+run_name: unique-hare-896
+run_uuid: b3703b8b3a6e4419892df197783c4521
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737644279991
+status: 3
+tags: []
+user_id: bhaskar

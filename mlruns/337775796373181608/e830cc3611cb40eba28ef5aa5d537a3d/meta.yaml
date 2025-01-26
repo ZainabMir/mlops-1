@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bhaskar/Documents/Personal/Study/BITS/SEM%20III/mlops/Assignemnt/mlops-1/mlruns/337775796373181608/e830cc3611cb40eba28ef5aa5d537a3d/artifacts
+end_time: 1737641008214
+entry_point_name: ''
+experiment_id: '337775796373181608'
+lifecycle_stage: active
+run_id: e830cc3611cb40eba28ef5aa5d537a3d
+run_name: nosy-croc-448
+run_uuid: e830cc3611cb40eba28ef5aa5d537a3d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737641006294
+status: 3
+tags: []
+user_id: bhaskar

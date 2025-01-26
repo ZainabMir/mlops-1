@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bhaskar/Documents/Personal/Study/BITS/SEM%20III/mlops/Assignemnt/mlops-1/mlruns/337775796373181608/62d4f356a7d645b8bbe4e0e079c00d28/artifacts
+end_time: 1737640992588
+entry_point_name: ''
+experiment_id: '337775796373181608'
+lifecycle_stage: active
+run_id: 62d4f356a7d645b8bbe4e0e079c00d28
+run_name: dazzling-calf-691
+run_uuid: 62d4f356a7d645b8bbe4e0e079c00d28
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737640990945
+status: 3
+tags: []
+user_id: bhaskar

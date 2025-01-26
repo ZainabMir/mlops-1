@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bhaskar/Documents/Personal/Study/BITS/SEM%20III/mlops/Assignemnt/mlops-1/mlruns/337775796373181608/9f943b3927c94a56af7c1fefe6030385/artifacts
+end_time: 1737641013030
+entry_point_name: ''
+experiment_id: '337775796373181608'
+lifecycle_stage: active
+run_id: 9f943b3927c94a56af7c1fefe6030385
+run_name: victorious-cat-89
+run_uuid: 9f943b3927c94a56af7c1fefe6030385
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737641011684
+status: 3
+tags: []
+user_id: bhaskar

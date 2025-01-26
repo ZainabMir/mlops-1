@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bhaskar/Documents/Personal/Study/BITS/SEM%20III/mlops/Assignemnt/mlops-1/mlruns/337775796373181608/91a806917ba44791869bc78a1877361c/artifacts
+end_time: 1737641022156
+entry_point_name: ''
+experiment_id: '337775796373181608'
+lifecycle_stage: active
+run_id: 91a806917ba44791869bc78a1877361c
+run_name: masked-dove-657
+run_uuid: 91a806917ba44791869bc78a1877361c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737641020574
+status: 3
+tags: []
+user_id: bhaskar

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bhaskar/Documents/Personal/Study/BITS/SEM%20III/mlops/Assignemnt/mlops-1/mlruns/789424145685369218/6a459c1f4fb0445eb723e15ea77e88d4/artifacts
+end_time: 1737879340146
+entry_point_name: ''
+experiment_id: '789424145685369218'
+lifecycle_stage: active
+run_id: 6a459c1f4fb0445eb723e15ea77e88d4
+run_name: gentle-worm-570
+run_uuid: 6a459c1f4fb0445eb723e15ea77e88d4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737879338411
+status: 3
+tags: []
+user_id: bhaskar

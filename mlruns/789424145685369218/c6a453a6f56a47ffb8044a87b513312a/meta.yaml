@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bhaskar/Documents/Personal/Study/BITS/SEM%20III/mlops/Assignemnt/mlops-1/mlruns/789424145685369218/c6a453a6f56a47ffb8044a87b513312a/artifacts
+end_time: 1737879318725
+entry_point_name: ''
+experiment_id: '789424145685369218'
+lifecycle_stage: active
+run_id: c6a453a6f56a47ffb8044a87b513312a
+run_name: charming-dolphin-382
+run_uuid: c6a453a6f56a47ffb8044a87b513312a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737879317394
+status: 3
+tags: []
+user_id: bhaskar

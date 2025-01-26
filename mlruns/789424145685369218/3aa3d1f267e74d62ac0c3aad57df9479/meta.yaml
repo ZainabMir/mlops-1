@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bhaskar/Documents/Personal/Study/BITS/SEM%20III/mlops/Assignemnt/mlops-1/mlruns/789424145685369218/3aa3d1f267e74d62ac0c3aad57df9479/artifacts
+end_time: 1737644232536
+entry_point_name: ''
+experiment_id: '789424145685369218'
+lifecycle_stage: active
+run_id: 3aa3d1f267e74d62ac0c3aad57df9479
+run_name: placid-wren-649
+run_uuid: 3aa3d1f267e74d62ac0c3aad57df9479
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737644231289
+status: 3
+tags: []
+user_id: bhaskar

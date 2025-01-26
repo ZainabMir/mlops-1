@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bhaskar/Documents/Personal/Study/BITS/SEM%20III/mlops/Assignemnt/mlops-1/mlruns/337775796373181608/7975065fd73544909bc3d461796d539b/artifacts
+end_time: 1737641028730
+entry_point_name: ''
+experiment_id: '337775796373181608'
+lifecycle_stage: active
+run_id: 7975065fd73544909bc3d461796d539b
+run_name: orderly-lamb-489
+run_uuid: 7975065fd73544909bc3d461796d539b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737641027214
+status: 3
+tags: []
+user_id: bhaskar

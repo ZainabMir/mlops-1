@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bhaskar/Documents/Personal/Study/BITS/SEM%20III/mlops/Assignemnt/mlops-1/mlruns/789424145685369218/4cfb25d1bbfc4c129f84ea1d9280e38f/artifacts
+end_time: 1737879325928
+entry_point_name: ''
+experiment_id: '789424145685369218'
+lifecycle_stage: active
+run_id: 4cfb25d1bbfc4c129f84ea1d9280e38f
+run_name: illustrious-jay-572
+run_uuid: 4cfb25d1bbfc4c129f84ea1d9280e38f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737879324336
+status: 3
+tags: []
+user_id: bhaskar

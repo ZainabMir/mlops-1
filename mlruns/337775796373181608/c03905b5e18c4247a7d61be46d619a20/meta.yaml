@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bhaskar/Documents/Personal/Study/BITS/SEM%20III/mlops/Assignemnt/mlops-1/mlruns/337775796373181608/c03905b5e18c4247a7d61be46d619a20/artifacts
+end_time: 1737641057031
+entry_point_name: ''
+experiment_id: '337775796373181608'
+lifecycle_stage: active
+run_id: c03905b5e18c4247a7d61be46d619a20
+run_name: melodic-goat-999
+run_uuid: c03905b5e18c4247a7d61be46d619a20
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737641055329
+status: 3
+tags: []
+user_id: bhaskar

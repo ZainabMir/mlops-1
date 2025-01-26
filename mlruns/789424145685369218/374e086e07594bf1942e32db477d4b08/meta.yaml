@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bhaskar/Documents/Personal/Study/BITS/SEM%20III/mlops/Assignemnt/mlops-1/mlruns/789424145685369218/374e086e07594bf1942e32db477d4b08/artifacts
+end_time: 1737879391610
+entry_point_name: ''
+experiment_id: '789424145685369218'
+lifecycle_stage: active
+run_id: 374e086e07594bf1942e32db477d4b08
+run_name: secretive-loon-957
+run_uuid: 374e086e07594bf1942e32db477d4b08
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737879389785
+status: 3
+tags: []
+user_id: bhaskar

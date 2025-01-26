@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bhaskar/Documents/Personal/Study/BITS/SEM%20III/mlops/Assignemnt/mlops-1/mlruns/789424145685369218/a1ca1aef297147ad8294f839fad6fadc/artifacts
+end_time: 1737644212633
+entry_point_name: ''
+experiment_id: '789424145685369218'
+lifecycle_stage: active
+run_id: a1ca1aef297147ad8294f839fad6fadc
+run_name: dashing-shoat-495
+run_uuid: a1ca1aef297147ad8294f839fad6fadc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737644211426
+status: 3
+tags: []
+user_id: bhaskar

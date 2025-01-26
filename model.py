@@ -10,7 +10,7 @@ from sklearn.metrics import precision_score, recall_score
 import pandas as pd
 
 # Enable MLflow Experiment
-mlflow.set_experiment("Iris_Model_Hyperparameter_Tuning New")
+mlflow.set_experiment("Iris Model EXP")
 
 # Load dataset
 # data = load_iris()

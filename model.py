@@ -1,19 +1,28 @@
 import mlflow
 import mlflow.sklearn
 import optuna
+from sklearn.preprocessing import LabelEncoder
 from sklearn.datasets import load_iris
 from sklearn.model_selection import train_test_split, cross_val_score
 from sklearn.linear_model import LogisticRegression
 from sklearn.metrics import accuracy_score
 from sklearn.metrics import precision_score, recall_score
+import pandas as pd
 
 # Enable MLflow Experiment
 mlflow.set_experiment("Iris_Model_Hyperparameter_Tuning New")
 
 # Load dataset
-data = load_iris()
-X, y = data.data, data.target
+# data = load_iris()
 
+# X, y = data.data, data.target
+df = pd.read_csv("Iris.csv")
+X = df.drop(columns=["species"])
+# Encode the target variable
+label_encoder = LabelEncoder()
+df['species'] = label_encoder.fit_transform(df['species'])
+
+y = df["species"]
 # Split data into training and testing sets
 X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
 

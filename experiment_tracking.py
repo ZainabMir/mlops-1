@@ -6,6 +6,7 @@ from sklearn.model_selection import train_test_split, cross_val_score
 from sklearn.linear_model import LogisticRegression
 from sklearn.metrics import accuracy_score, precision_score, recall_score, f1_score
 
+mlflow.set_tracking_uri("file:./mlruns")
 # 1. Set the MLflow experiment name
 mlflow.set_experiment("Iris_Model_Experiment")
 

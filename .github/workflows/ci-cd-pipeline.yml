@@ -33,6 +33,7 @@ jobs:
 
       - name: Test Model Script
         run: |
+          dvc pull 
           python model.py
 
       - name: Deploy (Dummy Step)

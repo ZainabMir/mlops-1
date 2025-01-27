@@ -7,7 +7,7 @@ This repository demonstrates foundational MLOps practices by implementing a CI/C
 
 1. **M1: MLOPS Foundations**
 2. **M2: Process and Tooling**
-3. **M2: Model Experimentation and Packaging**
+3. **M3: Model Experimentation and Packaging**
 
 
 ## **File Structure**
@@ -85,7 +85,8 @@ Automate code testing, linting, and deployment for a machine learning model usin
 
 ---
 
-## M2: Experiment Tracking with MLflow
+## M2: 
+## Experiment Tracking with MLflow
 
 ### Objective
 Track and log machine learning experiments, including metrics, parameters, and artifacts, using MLflow.
@@ -159,7 +160,7 @@ Track and log machine learning experiments, including metrics, parameters, and a
 ---
 
 
-
+## Data Versioning using DVC
 
 
 ## Task M3: Model Experimentation and Packaging**
